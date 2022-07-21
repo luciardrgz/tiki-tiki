@@ -1,5 +1,6 @@
 # 👾Tiki Tiki
-Una app hecha para ayudar a las personas a conocer el manejo básico de las apps más comunes hoy en día.<br> 
+<p align="center"><a href="https://ibb.co/sK6ZjSV"><img src="https://i.ibb.co/VgQsVyq/logo.png" alt="logo" width="200" height="200" align="center"></a><p>
+<br>Una app hecha para ayudar a las personas a conocer el manejo básico de las apps más comunes hoy en día.<br> 
 <b>Creada individualmente en 4 semanas para el programa <a href="https://chicasentecnologia.org/protagonistasdelfuturo/#:~:text=Protagonistas%20del%20futuro%20busca%20crear,a%20trav%C3%A9s%20de%20la%20tecnolog%C3%ADa.&text=Tener%20entre%2016%20y%2021%20a%C3%B1os%20al%2027%2F05%2F2022.">Protagonistas del Futuro</a> de CET.</b> 
 
 💡 Problemática identificada e ideas para las próximas versiones:<br> 
